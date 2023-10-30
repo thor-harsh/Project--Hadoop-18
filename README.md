@@ -1,7 +1,7 @@
 # Project--Hadoop-18
 
 
-**In this project we will be using Spark with Python to find the minimum temperature for a given year for a given place from 1800 dataset.**
+**In this project we will be using Spark with Python to find the minimum temperature for a given year for a given place from 1800.csv dataset.**
 
 **Before diving into the project lets get to know about Spark**...<br></br>
 
