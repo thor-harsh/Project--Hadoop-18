@@ -10,10 +10,10 @@ Apache Spark is an open-source unified analytics engine for large-scale data pro
 
 **This dataset which we downloaded contains 4 columns:** <br></br>
  **(PlaceId):** The id of place<br></br>
- **(Movie-Id):** The movie id of movie which users rated<br></br>
- **(Ratings):** The ratings which the user gave to the given movie<br></br>
- **(Timestamp):** The time at which the user rated the given movie<br></br>
-
+ **(Timestamp):** The time and date at which the temperature is recorded<br></br>
+ **(Movie-Id):** The three different weather recordings of a given place (TMAX,TMIN,PRCP) <br></br>
+ **(Ratings):** The temperature of a given place<br></br>
+ 
  **Important Note: Go through the dataset before jumping to the code.**
 
  **So what are you waiting for..? Jump to the code to get started. As usual for any doubt or query see you in pull request section 😁😂. Thanks!**
