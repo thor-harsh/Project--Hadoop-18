@@ -9,8 +9,8 @@
 Apache Spark is an open-source unified analytics engine for large-scale data processing. Spark provides an interface for programming clusters with implicit data parallelism and fault tolerance. Apache Spark is a multi-language engine for executing data engineering, data science, and machine learning on single-node machines or clusters.
 
 **This dataset which we downloaded contains 4 columns:** <br></br>
- **(Place-Id):** The id of the place<br></br>
- **(Timestamp):** The time and date at which the temperature is recorded<br></br>
+ **(Place-Id):** The id of the place <br></br>
+ **(Timestamp):** The time and date at which the temperature is recorded <br></br>
  **(Type):** The three different weather recordings of a given place (TMAX,TMIN,PRCP) <br></br>
  **(Temperature):** The temperature of a given place <br></br>
  
