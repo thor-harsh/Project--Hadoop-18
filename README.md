@@ -6,7 +6,7 @@
 **Before diving into the project lets get to know about Spark**...<br></br>
 
 **What is Apache Spark**?<br></br>
-Apache Spark is an open-source unified analytics engine for large-scale data processing. Spark provides an interface for programming clusters with implicit data parallelism and fault tolerance.Apache Spark is a multi-language engine for executing data engineering, data science, and machine learning on single-node machines or clusters.
+Apache Spark is an open-source unified analytics engine for large-scale data processing. Spark provides an interface for programming clusters with implicit data parallelism and fault tolerance. Apache Spark is a multi-language engine for executing data engineering, data science, and machine learning on single-node machines or clusters.
 
 **This dataset which we downloaded contains 4 columns:** <br></br>
  **(Place-Id):** The id of the place<br></br>
