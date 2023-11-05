@@ -9,6 +9,7 @@ def parseLine(line):
     fields = line.split(',')
     stationID = fields[0]
     entryType = fields[2]
+    #temperature is in celsius scale
     temperature = float(fields[3]) * 0.1
     return (stationID, entryType, temperature)
 
