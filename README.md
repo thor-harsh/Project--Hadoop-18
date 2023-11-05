@@ -2,7 +2,7 @@
 
 <table>
 
-**In this Project We will be using Apache Spark with Python to find the minimum temperature for a given year For a given place From 1800.csv dataset.**
+**In this Project we will be using Apache Spark with Python to find the minimum temperature for a given year for a given place From 1800.csv dataset.**
 
 **Before diving into the project let's get to know about Spark**...<br></br>
 
