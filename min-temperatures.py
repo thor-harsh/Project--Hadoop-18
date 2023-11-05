@@ -1,4 +1,5 @@
 from pyspark import SparkConf, SparkContext
+import collect
 
 conf = SparkConf().setMaster("local").setAppName("MinTemperatures")
 sc = SparkContext(conf = conf)
